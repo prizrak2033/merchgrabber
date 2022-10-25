@@ -1,4 +1,4 @@
-module github.com/KyberNetwork/go-project-template
+module github.com/prizrak2033/merchgrabber
 
 go 1.19
 
